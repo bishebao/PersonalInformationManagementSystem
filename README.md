@@ -1,0 +1,2 @@
+# PersonalInformationManagementSystem
+ 基于java+jsp的个人信息管理系统：集成个人信息管理、通讯录管理、日程安排管理等功能于一体的系统
